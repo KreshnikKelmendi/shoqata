@@ -43,7 +43,7 @@ const ImportantDates = () => {
       </div>
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 2xl:grid-cols-4 gap-8 mt-8'>
         {importantDates.map((date, indexi) => (
-          <div key={indexi} className="bg-white h-60 flex flex-col justify-center items-center rounded-lg shadow-sm shadow-[#044f7c] p-6 hover:bg-gray-100 relative">
+          <div key={indexi} className="bg-white h-60 flex flex-col justify-center rounded-lg shadow-sm shadow-[#044f7c] p-6 hover:bg-gray-100 relative">
             <div className='flex items-center font-custom mb-4 absolute top-0 right-0'>
               <span className='text-gray-500 opacity-30 text-xl font-bold mr-2'>{indexi + 1 < 10 ? `0${indexi + 1}` : indexi + 1}</span>
             </div>
@@ -55,7 +55,7 @@ const ImportantDates = () => {
             <p className="text-gray-900 mb-4 font-extrabold"> {t(date.description)}</p>
             {date.secondDescription && (
               <p className="text-[#044f7c] font-semibold mb-4">{t('pleaseSubmit')} <span className='underline font-extrabold'>
-                <a href="mailto:abstract.shofk@gmail.com" className="hover:underline">abstract.shofk@gmail.com</a>
+                <a href="mailto:abstract.shofk@gmail.com" className="hover:underline text-lg text-[#ff354c]">abstract.shofk@gmail.com</a>
               </span></p>
             )}
             {date.pdf && (

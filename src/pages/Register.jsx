@@ -105,6 +105,14 @@ const Register = () => {
                                 <h4 className="text-white text-lg font-semibold">{t('simpleRegistration')}</h4>
                                 <p className="text-[13px] text-white mt-2">{t('simpleDescriptionRegister')}</p>
                             </div>
+                            <div>
+                            <p className="mb-4 text-sm font-custom text-white">
+                We are pleased to inform you that your registration will be successfully processed once we receive your payment.
+<p><br/>
+                Please after fill the form proceed with your payment, <br /><br />
+                    ProCredit Bank <span className='font-extrabold text-red-500 underline'>1181001152000154</span></p>
+                </p>
+                            </div>
                         </div>
                         <form ref={form} onSubmit={sendEmail} className="md:col-span-2 w-full py-6 px-6 sm:px-16">
                             <div className="mb-6">

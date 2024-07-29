@@ -2,37 +2,40 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faExclamationCircle } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 
 const PricingBanner = () => {
+  const { t } = useTranslation();
+
   return (
     <div className="py-4 bg-gray-50 font-custom">
       <div className="mx-auto px-0 lg:px-10">
         <div className="relative">
           <div className="bg-[#ff354c] py-4 rounded-lg shadow-xl overflow-hidden">
             <div className="p-4 text-white">
-              <h2 className="text-2xl font-bold text-white mb-4">Registration Pricing</h2>
+              <h2 className="text-2xl font-bold text-white mb-4">{t('registrationPricing')}</h2>
               <div className="border-b border-gray-200 overflow-hidden">
                 <table className="w-full">
                   <thead className="bg-gray-50">
                     <tr>
-                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-left">Registration Type</th>
-                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-center">Member Price</th>
-                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-center">Non-Member Price</th>
+                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-left">{t('registrationType')}</th>
+                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-center">{t('memberPrice')}</th>
+                      <th className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-[#044f7c] font-bold text-center">{t('nonmemberPrice')}</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200">
-                        Early Registration
-                        <p className="text-gray-300 font-bold text-[11px] mt-2">Member of KAO</p>
+                        {t('earlyRegistration')}
+                        <p className="text-gray-300 font-bold text-[11px] mt-2">{t('kaoMember')}</p>
                       </td>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-center">50 EUR</td>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-center">80 EUR</td>
                     </tr>
                     <tr>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200">
-                        Late Registration
-                        <p className="text-gray-300 font-bold text-[11px] mt-2">Not Member of KAO</p>
+                        {t('lateRegistration')}
+                        <p className="text-gray-300 font-bold text-[11px] mt-2">{t('notKaoMember')}</p>
                       </td>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-center">80 EUR</td>
                       <td className="lg:py-4 text-sm lg:text-base px-4 border-b border-gray-200 text-center">120 EUR</td>

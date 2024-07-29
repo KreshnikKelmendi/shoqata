@@ -55,6 +55,14 @@ i18n
           "City": "City",
           "Country": "Country",
           "PhoneNumber": "Phone Number",
+          "registrationPricing": "Registration Pricing",
+          "registrationType": 'Registration Type',
+          "memberPrice": "Member Price",
+          "nonmemberPrice": "Non-Member Price",
+          "earlyRegistration": "Early Registration",
+          "kaoMember": "Member of KAO",
+          "lateRegistration": "Late Registration",
+          "notKaoMember": "Not Member of KAO",
 
         // Venue Page
 
@@ -148,6 +156,14 @@ i18n
           "City": "Qyteti",
           "Country": "Shteti",
           "PhoneNumber": "Nr.tel",
+          "registrationPricing" : "Cmimi i regjistrimit",
+          "registrationType": "Lloji i regjistrimit",
+          "memberPrice": "Cmimi për anëtar",
+          "nonmemberPrice": "Cmimi për jo-anëtar",
+          "earlyRegistration": "Regjistrimi i hershëm",
+          "kaoMember": "Anëtar i KAO-s",
+          "lateRegistration": "Regjistrim i mëvonshëm",
+          "notKaoMember": "Jo anëtar i KAO-s",
 
           // Venue Page
 
