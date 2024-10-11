@@ -232,7 +232,7 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 p-2'><strong>09:00 – 09:45</strong></td>
                         <td className='border border-gray-300 p-2'>YOUNG OPHTHALMOLOGIST SESSION</td>
-                        <td className='border border-gray-300 p-2'>Dr. Banu Turgut Öztürk, Dr. Belinda Pustin</td>
+                        <td className='border border-gray-300 p-2 font-bold'>Moderators: Dr. Banu Turgut Öztürk, Dr. Belinda Pustina</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 p-2'><strong>09:00 – 09:15</strong></td>
@@ -350,9 +350,28 @@ const Programm = () => {
                       </tr>
                       <tr>
                         <td className='border border-gray-300 p-2'><strong>14:45 - 15:35</strong></td>
-                        <td className=' border-gray-300 p-2 font-bold border-b border-t border-l'>SATELLITE SYMPOSIUM ROCHE (50 min.)</td>
+                        <td className=' border-gray-300 p-2 font-bold border-b border-t border-l'>SATELLITE SYMPOSIUM ROCHE<br />
+                        Moderator: Dr. Naser Salihu</td>
                         <td className='border-r border-t border-b border-gray-300 p-2'></td>
                       </tr>
+                      <tr>
+                        <td className='border border-gray-300 p-2'><strong>14:45 – 15:15</strong></td>
+                        <td className='border border-gray-300 p-2'>Bridging Research with Reality: The overall impact of Faricimab</td>
+                        <td className='border border-gray-300 p-2'>Dr. Nenad Vukujoveic</td>
+                      </tr>
+
+                      <tr>
+                        <td className='border border-gray-300 p-2'><strong>15:15 – 15:30</strong></td>
+                        <td className='border border-gray-300 p-2'>The power of dual mechanism of action</td>
+                        <td className='border border-gray-300 p-2'>Dr. Afrim Shabani</td>
+                      </tr>
+
+                      <tr>
+                        <td className='border border-gray-300 p-2'><strong>15:30 – 15:35</strong></td>
+                        <td className='border border-gray-300 p-2'>Discussion</td>
+                        <td className='border border-gray-300 p-2'></td>
+                      </tr>
+
                       <tr>
                         <td className='border border-gray-300 p-2'><strong>15:35 - 16:50</strong></td>
                         <td className=' border-gray-300 p-2 font-bold border-b border-t border-l'>Medical Retina <br />

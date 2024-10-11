@@ -227,7 +227,7 @@ const Secondprogram = () => {
                                         </tr>
                                         <tr className='font-bold'>
                                             <td className='border border-gray-300 p-2'><strong>17:15 - 17:35</strong></td>
-                                            <td className='border border-gray-300 p-2'>SATELLITE SYMPOSIUM ROCHE (50 min.)</td>
+                                            <td className='border border-gray-300 p-2'>SATELLITE SYMPOSIUM ALCON</td>
                                             <td className='border border-gray-300 p-2'></td>
                                         </tr>
                                         <tr>
@@ -338,7 +338,7 @@ const Secondprogram = () => {
                                         </tr>
                                         <tr>
                                             <td className='border border-gray-300 p-2'><strong>OP-34</strong></td>
-                                            <td className='border border-gray-300 p-2'>Subretinal Injection to Treat Submacular Hemorrhage Secondary To Age-Related Macular Degeneration and Case Series</td>
+                                            <td className='border border-gray-300 p-2'>Subretinal Injection of rTPA to Treat Submacular Hemorrhage Secondary To Age-Related Macular Degeneration and Case Series</td>
                                             <td className='border border-gray-300 p-2'>Vigan Roka</td>
                                         </tr>
                                         <tr>
