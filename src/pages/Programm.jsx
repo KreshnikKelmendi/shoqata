@@ -357,7 +357,7 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 p-2'><strong>14:45 – 15:15</strong></td>
                         <td className='border border-gray-300 p-2'>Bridging Research with Reality: The overall impact of Faricimab</td>
-                        <td className='border border-gray-300 p-2'>Dr. Nenad Vukujoveic</td>
+                        <td className='border border-gray-300 p-2'>Dr. Nenad Vukojevic</td>
                       </tr>
 
                       <tr>
