@@ -57,62 +57,68 @@ const Secondprogram = () => {
                                     </thead>
                                     <tbody className='text-[13px] font-custom'>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>09:00 - 10:15</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:00 - 10:15</strong></td>
                                             <td className='border border-gray-300 p-2 font-bold'>Cornea and Ocular Surface</td>
-                                            <td className='border border-gray-300 p-2 font-bold'>Moderators: Dr. Dilek Dursun Altınörs, Dr. Daniel Meller, Dr. Yehia Salah Mostafa</td>
+                                            <td className='border border-gray-300 p-2 font-bold'>Moderators: Dr. Dilek Dursun Altınörs, Dr. Daniel Meller, Dr. Yehia S. Mostafa</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>09:00 - 09:15</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:00 - 09:15</strong></td>
                                             <td className='border border-gray-300 p-2'>Simple Limbal Epithelial Transplantation for Ocular Surface Reconstruction</td>
                                             <td className='border border-gray-300 p-2'>Dr. Daniel Meller</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>09:15 – 09:30</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:15 – 09:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Current dry eye treatment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Sait Eğrilmez</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>09:30 – 09:45</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:30 - 09:45</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Keratoconus and Crosslinking Treatment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Dilek Dursun Altınörs</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>09:45 – 10:00</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:45 - 10:00</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Hot keratoplasty for corneal infections</td>
-                                            <td className='border border-gray-300 p-2'>Dr. Yehia Salah Mostafa</td>
+                                            <td className='border border-gray-300 p-2'>Dr. Yehia S. Mostafa</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>10:00 – 10:15</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>10:00 - 10:15</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Keratopigmentation: Evolution of Techniques and Future Horizons</td>
                                             <td className='border border-gray-300 p-2'>Dr. Mahmut Kaşkaloğlu</td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>10:15 - 11:15</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>10:15 - 11:15</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Cataract and Refractive Surgery</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Vladimir Pfeifer, Dr. Christian Grupcheva, Dr. Kıvanç Güngör</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>10:15 – 10:30</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>10:15 - 10:30</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Iridoplasty a useful tool for the anterior segment surgeon</td>
-                                            <td className='border border-gray-300 p-2'>Dr. Yehia Salah Mostafa</td>
+                                            <td className='border border-gray-300 p-2'>Dr. Yehia S. Mostafa</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>10:30 – 10:45</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>10:30 - 10:45</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Secondary IOL implantation</td>
                                             <td className='border border-gray-300 p-2'>Dr. Vladimir Pfeifer</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>10:45 – 11:00</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>10:45 – 11:00</strong></td>
                                             <td className='border border-gray-300 p-2'>Refractive intraocular lens exchange</td>
                                             <td className='border border-gray-300 p-2'>Dr. Alina Gheorghe</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>11:00 – 11:15</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:00 – 11:15</strong></td>
                                             <td className='border border-gray-300 p-2'>3D Surgery in Ophthalmology</td>
                                             <td className='border border-gray-300 p-2'>Dr. Christina Grupcheva</td>
                                         </tr>
                                         <tr className='bg-[#044f7c] text-white'>
-                                            <td className='border-l border-b border-t border-gray-300 p-2'><strong>11:15 - 11:45</strong></td>
+                                            <td className='border-l border-b border-t border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:15 - 11:45</strong></td>
                                             <td className='border-b border-t border-gray-300 p-2 font-bold'>
                                                 <FontAwesomeIcon icon={faCoffee} className='mr-2' />
                                                 COFFEE BREAK
@@ -120,32 +126,32 @@ const Secondprogram = () => {
                                             <td className='border-r border-b border-t border-gray-300 p-2'></td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>11:45 - 12:45</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:45 - 12:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Uveitis</td>
-                                            <td className='border border-gray-300 p-2'>Moderators: Dr. Nilüfer Yalcindağ, Dr. Nenad Vukojevic, Dr. Vlatka Saric</td>
+                                            <td className='border border-gray-300 p-2'>Moderators: Dr. Nilüfer Yalcindağ, Dr. Vlatka Saric</td>
                                         </tr>
-                                        <tr>
+                                        {/* <tr>
                                             <td className='border border-gray-300 p-2'><strong>11:45 – 12:00</strong></td>
                                             <td className='border border-gray-300 p-2'>Uveitis Masquerade Syndrome</td>
                                             <td className='border border-gray-300 p-2'>Dr. Nenad Vukojevic</td>
-                                        </tr>
+                                        </tr> */}
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>12:00 – 12:15</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:45 – 12:00</strong></td>
                                             <td className='border border-gray-300 p-2'>Diagnosis and management of non-infectious uveitis</td>
                                             <td className='border border-gray-300 p-2'>Dr. Suzan Güven</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>12:15 – 12:30</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>12:00 – 12:15</strong></td>
                                             <td className='border border-gray-300 p-2'>Pediatric Non-infectious Uveitis</td>
                                             <td className='border border-gray-300 p-2'>Dr. Nilüfer Yalçındağ</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>12:30 – 12:45</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>12:15 – 12:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Viral Retinis</td>
                                             <td className='border border-gray-300 p-2'>Dr. Vlatka Saric</td>
                                         </tr>
                                         <tr className='bg-[#044f7c] text-white'>
-                                            <td className='border-l border-t border-b border-gray-300 p-2'><strong>12:45 - 14:00</strong></td>
+                                            <td className='border-l border-t border-b border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>12:30 - 13:45</strong></td>
                                             <td className='border-b border-t border-gray-300 p-2 font-bold'>
                                                 <FontAwesomeIcon icon={faUtensils} className='mr-2' />
                                                 LUNCH BREAK
@@ -153,72 +159,78 @@ const Secondprogram = () => {
                                             <td className='border-r border-b border-t border-gray-300 p-2'></td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>14:00 - 15:30</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>13:45 - 15:15</strong></td>
                                             <td className='border border-gray-300 p-2'>Vitreoretinal Surgery - II</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Hakan Durukan, Dr. Angelina Miereles, Dr. Xhevat Lumi</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>14:00 – 14:15</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>13:45 - 14:00</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Myopic Tractional Maculopathy</td>
                                             <td className='border border-gray-300 p-2'>Dr. Angelina Miereles</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>14:15 – 14:30</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:00 – 14:15</strong></td>
                                             <td className='border border-gray-300 p-2'>Outcomes of New Peeling Techniques for macular pucker</td>
                                             <td className='border border-gray-300 p-2'>Dr. Xhevat Lumi</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>14:30 – 14:45</strong></td>
-                                            <td className='border border-gray-300 p-2'>Management of combined traumatic dislocation crystalline lens and traumatic mydriasis</td>
-                                            <td className='border border-gray-300 p-2'>Dr. Xhevat Lumi</td>
-                                        </tr>
-                                        <tr>
-                                            <td className='border border-gray-300 p-2'><strong>14:45 – 15:00</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:15 – 14:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Ocular Trauma Affecting the Posterior Segment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Hakan Durukan</td>
+                                          
+                                            
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>15:00 – 15:15</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:30 - 14:45</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Prophylactic chorioretinotomy in high risk of ocular traumas</td>
                                             <td className='border border-gray-300 p-2'>Dr. Angelina Miereles</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>15:15 – 15:30</strong></td>
-                                            <td className='border border-gray-300 p-2'>Management of ocular trauma asociated with catararact and IOFB</td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:45 - 15:00</strong></td>
+
+                                            <td className='border border-gray-300 p-2'>Management of combined traumatic dislocation crystalline lens and traumatic mydriasis</td>
+                                            <td className='border border-gray-300 p-2'>Dr. Xhevat Lumi</td>
+                                        </tr>
+                                        <tr>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:00 – 15:15</strong></td>
+                                            <td className='border border-gray-300 p-2'>Management of ocular trauma asociated with cataracts and IOFB</td>
                                             <td className='border border-gray-300 p-2'>Dr. Naser Salihu</td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>15:30 - 16:45</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:15 - 16:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Oculoplastics</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Brigita Drnovsek-Olup, Dr. Şeyda Karadeniz Uğurlu, Dr. Kelmend Spahiu</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>15:30 – 15:45</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:15 – 15:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Complex surgical treatment of Blepharophymosis syndrome (BPES)</td>
                                             <td className='border border-gray-300 p-2'>Dr. Brigita Dernovsek</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>15:45 - 16:00</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:30 - 15:45</strong></td>
                                             <td className='border border-gray-300 p-2'>Ptosis Surgery</td>
                                             <td className='border border-gray-300 p-2'>Dr. Suat Hayri Uğurbaş</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>16:00 – 16:15</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:45 - 16:00</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Esthetic and Functional Eyelid Surgery</td>
                                             <td className='border border-gray-300 p-2'>Dr. Onur Konuk</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>16:15 – 16:30</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>16:00 – 16:15</strong></td>
                                             <td className='border border-gray-300 p-2'>Management of Lower Eyelid Malposition</td>
                                             <td className='border border-gray-300 p-2'>Dr. Şeyda Karadeniz Uğurlu</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>16.:30 – 16:45</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>16:15 – 16:30</strong></td>
                                             <td className='border border-gray-300 p-2'>Etiological classification of ptosis</td>
                                             <td className='border border-gray-300 p-2'>Dr. Kelmend Spahiu</td>
                                         </tr>
                                         <tr className='bg-[#044f7c] text-white'>
-                                            <td className='border-l border-b border-t border-gray-300 p-2'><strong>16:45 - 17:15</strong></td>
+                                            <td className='border-l border-b border-t border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>16:30 - 17:00</strong></td>
                                             <td className='border-b border-t border-gray-300 p-2 font-bold'>
                                                 <FontAwesomeIcon icon={faCoffee} className='mr-2' />
                                                 COFFEE BREAK
@@ -226,37 +238,38 @@ const Secondprogram = () => {
                                             <td className='border-r border-b border-t border-gray-300 p-2'></td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>17:15 - 17:35</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:00 - 17:20</strong></td>
                                             <td className='border border-gray-300 p-2'>SATELLITE SYMPOSIUM ALCON</td>
                                             <td className='border border-gray-300 p-2'></td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>17:35 - 18:50</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:20 - 18:35</strong></td>
                                             <td className='border border-gray-300 p-2'>Pediatric Ophthalmology and Strabismus</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Huban Atillla, Dr. Nikolas Kozeis, Dr. Tundjai Jozturk</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>17:35 – 17:50</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:20 – 17:35</strong></td>
                                             <td className='border border-gray-300 p-2'>The effect of Visual Screens on Vision of adolescents</td>
                                             <td className='border border-gray-300 p-2'>Dr. Tundjai Jozturk</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>17:50 – 18:05</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:35 – 17:50</strong></td>
                                             <td className='border border-gray-300 p-2'>Children with Visual Impairment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Nikolas Kozeis</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>18:05 - 18:20</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:50 - 18:05</strong></td>
                                             <td className='border border-gray-300 p-2'>Electrophysiology for Children with Visual Impairment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Ayşe Öner</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>18:20 - 18:35</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:05 - 18:20</strong></td>
                                             <td className='border border-gray-300 p-2'>Visual Complications of ROP</td>
                                             <td className='border border-gray-300 p-2'>Dr. Tuba Atalay</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 p-2'><strong>18:35 – 18:50</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:20 - 18:35</strong></td>
+
                                             <td className='border border-gray-300 p-2'>Post traumatic isolated extraocular muscle lacerations</td>
                                             <td className='border border-gray-300 p-2'>	Dr. Yaşar Duranoğlu</td>
                                         </tr>
@@ -292,7 +305,7 @@ const Secondprogram = () => {
                                     </thead>
                                     <tbody className='text-[13px] font-custom'>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>08:30 – 10:00</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>08:30 – 10:00</strong></td>
                                             <td className='border border-gray-300 p-2 font-bold'>FREE PAPERS – II</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Sibel Kadayıfcılar, Dr. Vigan Roka</td>
                                         </tr>
@@ -328,7 +341,8 @@ const Secondprogram = () => {
                                         </tr>
                                         <tr>
                                             <td className='border border-gray-300 p-2'><strong>OP-32</strong></td>
-                                            <td className='border border-gray-300 p-2'>Deep Learning Assisted Analysis of OCT Biomarker Changes in Recalcitrant Neovascular Age Related Macular Degeneration after Switch to Faricimab.</td>
+                                            <td className='border border-gray-300 p-2'>Suprachorioidal Implantation of Slow-Release Corticosteroid Implants for the Treatment of Cystoid Macular Edema</td>
+
                                             <td className='border border-gray-300 p-2'>Ben Asani</td>
                                         </tr>
                                         <tr>
@@ -338,7 +352,7 @@ const Secondprogram = () => {
                                         </tr>
                                         <tr>
                                             <td className='border border-gray-300 p-2'><strong>OP-34</strong></td>
-                                            <td className='border border-gray-300 p-2'>Subretinal Injection of rTPA to Treat Submacular Hemorrhage Secondary To Age-Related Macular Degeneration and Case Series</td>
+                                            <td className='border border-gray-300 p-2'>Subretinal Injection of rTPA to Treat Submacular Hemorrhage Secondary To Age-Related Macular Degeneration</td>
                                             <td className='border border-gray-300 p-2'>Vigan Roka</td>
                                         </tr>
                                         <tr>

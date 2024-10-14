@@ -27,7 +27,7 @@ const InvitedSpeakers = () => {
                 "Prof. Vlatka Saric - Croatia",
                 "Prof. Vesna Dimovska - North Macedonia",
                 "Prof. Athanasios Nikolakopulos - Greece",
-                "Prof. Yehia Salah Mostafa - Egypt",
+                "Prof. Yehia S. Mostafa - Egypt",
                 "Prof. Pajtim Lutaj - Albania",
                 "Prof. Ilir Arapi - Albania",
                 // "Arjeta Grezda - Albania",
