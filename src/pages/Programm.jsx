@@ -189,7 +189,7 @@ const Programm = () => {
   return (
     <>
       <div className='bg-gray-50 px-4 lg:px-16 py-8'>
-        <h2 className='text-3xl lg:text-4xl text-center font-semibold font-custom uppercase pb-4'>Scientific Programm</h2>
+        <h2 className='text-3xl lg:text-4xl text-center font-semibold font-custom uppercase pb-4'>Scientific Programme</h2>
         <div className='mt-4'>
           {/* Date Buttons */}
           <button
