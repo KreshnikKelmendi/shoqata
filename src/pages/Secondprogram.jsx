@@ -237,38 +237,50 @@ const Secondprogram = () => {
                                             </td>
                                             <td className='border-r border-b border-t border-gray-300 p-2'></td>
                                         </tr>
-                                        <tr className='font-bold'>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:00 - 17:20</strong></td>
-                                            <td className='border border-gray-300 p-2'>SATELLITE SYMPOSIUM ALCON</td>
+                                        <tr className=''>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center '><strong>17:00 - 17:25</strong></td>
+                                            <td className='border border-gray-300 p-2 font-bold'>SATELLITE SYMPOSIUM ALCON <br />
+                                            <b>Moderator: </b><span>Ariana Kelmendi</span></td>
                                             <td className='border border-gray-300 p-2'></td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:20 - 18:35</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:00 - 17:15</strong></td>
+                                            <td className='border border-gray-300 p-2'>Different IOL solutions for Presbyopia connections</td>
+                                            <td className='border border-gray-300 p-2'>Dr. Andrzej Dmitriew</td>
+                                        </tr>
+                                        <tr>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:15 - 17:25</strong></td>
+                                            <td className='border border-gray-300 p-2'>Argos CAS - more than optical biometer</td>
+                                            <td className='border border-gray-300 p-2'>Iva Kumpar Plese</td>
+                                        </tr>
+                                     
+                                        <tr className='font-bold'>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center py-4'><strong>17:25 - 18:40</strong></td>
                                             <td className='border border-gray-300 p-2'>Pediatric Ophthalmology and Strabismus</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Huban Atillla, Dr. Nikolas Kozeis, Dr. Tundjai Jozturk</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:20 – 17:35</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:25 – 17:40</strong></td>
                                             <td className='border border-gray-300 p-2'>The effect of Visual Screens on Vision of adolescents</td>
                                             <td className='border border-gray-300 p-2'>Dr. Tundjai Jozturk</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:35 – 17:50</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:40 – 17:55</strong></td>
                                             <td className='border border-gray-300 p-2'>Children with Visual Impairment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Nikolas Kozeis</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:50 - 18:05</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:55 - 18:10</strong></td>
                                             <td className='border border-gray-300 p-2'>Electrophysiology for Children with Visual Impairment</td>
                                             <td className='border border-gray-300 p-2'>Dr. Ayşe Öner</td>
                                         </tr>
                                         <tr>
-                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:05 - 18:20</strong></td>
+                                            <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:10 - 18:25</strong></td>
                                             <td className='border border-gray-300 p-2'>Visual Complications of ROP</td>
                                             <td className='border border-gray-300 p-2'>Dr. Tuba Atalay</td>
                                         </tr>
                                         <tr>
-                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:20 - 18:35</strong></td>
+                                        <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>18:25 - 18:40</strong></td>
 
                                             <td className='border border-gray-300 p-2'>Post traumatic isolated extraocular muscle lacerations</td>
                                             <td className='border border-gray-300 p-2'>	Dr. Yaşar Duranoğlu</td>

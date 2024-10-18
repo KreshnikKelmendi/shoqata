@@ -261,7 +261,7 @@ const Programm = () => {
                             <li>Dr. Sait Eğrilmez</li>
                             <li>Dr. Gürkan Erdoğan</li>
                             <li>Dr. Gafurr Murati</li>
-                            <li>Dr. Valbon Ajazi</li>
+                            <li>Dr. Valbon Ajazaj</li>
                           </ul>
                         </td>
                       </tr>
@@ -286,7 +286,7 @@ const Programm = () => {
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:15 – 11:30</strong></td>
-                        <td className='border border-gray-300 p-2'>Treatment of residual refraction after trifocal lens implantation (Acibadem sponsorship)</td>
+                        <td className='border border-gray-300 p-2'>Treatment of residual refraction after trifocal lens implantation</td>
                         <td className='border border-gray-300 p-2'>Dr. Banu Coșar</td>
                       </tr>
                       <tr>

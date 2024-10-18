@@ -1,5 +1,5 @@
 import React from 'react'
-import poster from "../img/final_poster.png"
+import poster from "../img/Asset 3.png"
 import Date from "../venue/Date.jsx"
 
 const Banner = () => {
