@@ -277,7 +277,7 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:00 - 12:15</strong></td>
                         <td className='border border-gray-300 p-2'>Cataract session I</td>
-                        <td className='border border-gray-300 p-2'>Dr. Gabor Scharioth, Dr. Banu Coșar, Dr. Athanasios Nikolakopoulos</td>
+                        <td className='border border-gray-300 p-2'>Dr. Gabor Scharioth, Prof. Dr. Banu Coșar, Dr. Athanasios Nikolakopoulos</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:00 – 11:15</strong></td>
@@ -287,7 +287,7 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:15 – 11:30</strong></td>
                         <td className='border border-gray-300 p-2'>Treatment of residual refraction after trifocal lens implantation</td>
-                        <td className='border border-gray-300 p-2'>Dr. Banu Coșar</td>
+                        <td className='border border-gray-300 p-2'>Prof. Dr. Banu Coșar</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:30 – 11:45</strong></td>
