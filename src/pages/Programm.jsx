@@ -229,7 +229,7 @@ const Programm = () => {
                       </tr>
                     </thead>
                     <tbody className='text-[13px] font-custom'>
-                      <tr>
+                      <tr className='font-bold'>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:00 – 09:45</strong></td>
                         <td className='border border-gray-300 p-2'>YOUNG OPHTHALMOLOGIST SESSION</td>
                         <td className='border border-gray-300 p-2 font-bold'>Moderators: Dr. Banu Turgut Öztürk, Dr. Belinda Pustina</td>
@@ -253,16 +253,13 @@ const Programm = () => {
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>09:50 - 10:30</strong></td>
                         <td className=' border-gray-300 p-2'>
                           <b>OPENING CEREMONY</b><br />
-                          <span>Dr. Huban Atilla - President of Turkish Ophthalmological Association (5 min.)</span><br />
-                          <span>Dr. Naser Salihu - President of KAO (5 min.)</span><br />
-                          <span>Music Performance (30 min):</span>
-                          <ul className='list-disc list-inside'>
-                            <li>Dr. Elçin Sürer</li>
-                            <li>Dr. Sait Eğrilmez</li>
-                            <li>Dr. Gürkan Erdoğan</li>
-                            <li>Dr. Gafurr Murati</li>
-                            <li>Dr. Valbon Ajazaj</li>
-                          </ul>
+                          <span><b>Dr. Naser Salihu</b> - President of Kosovo Association of Ophthalmologists</span><br />
+
+                          <span><b>Dr. Huban Atilla</b> - President of Turkish Ophthalmological Association</span><br />
+                          <span><b>Arben Vitia</b> - Minister of Health in the Republic of Kosovo</span><br />
+                          <span><b>HE Mr. Tunç Angılı</b> - Ambassador of the Republic of Türkiye</span><br /> <br />
+                          <span><b>Music Performance:</b> Dr. Elçin Sürer, Dr. Sait Eğrilmez, Dr. Gürkan Erdoğan, <br />Dr. Gafurr Murati, Dr. Valbon Ajazaj</span>
+                         
                         </td>
                       </tr>
 
@@ -274,10 +271,10 @@ const Programm = () => {
                         </td>
                         <td className='border border-gray-300 p-2'></td>
                       </tr>
-                      <tr>
+                      <tr className='font-bold'>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:00 - 12:15</strong></td>
                         <td className='border border-gray-300 p-2'>Cataract session I</td>
-                        <td className='border border-gray-300 p-2'>Dr. Gabor Scharioth, Prof. Dr. Banu Coșar, Dr. Athanasios Nikolakopoulos</td>
+                        <td className='border border-gray-300 p-2'>Dr. Gabor Scharioth, Dr. Banu Coșar, Dr. Athanasios Nikolakopoulos</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:00 – 11:15</strong></td>
@@ -287,7 +284,7 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:15 – 11:30</strong></td>
                         <td className='border border-gray-300 p-2'>Treatment of residual refraction after trifocal lens implantation</td>
-                        <td className='border border-gray-300 p-2'>Prof. Dr. Banu Coșar</td>
+                        <td className='border border-gray-300 p-2'>Dr. Banu Coșar</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>11:30 – 11:45</strong></td>
@@ -320,8 +317,8 @@ const Programm = () => {
                       <tr className='font-bold'>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>13:30 - 14:45</strong></td>
                         <td className='border border-gray-300 p-2'>Recent advances in glaucoma diagnosis and treatment<br />
-                          Moderators: Dr. Tekin Yaşar, Dr. Pajtim Lutaj</td>
-                        <td className='border border-gray-300 p-2'></td>
+                          </td>
+                        <td className='border border-gray-300 p-2'>Moderators: Dr. Tekin Yaşar, Dr. Pajtim Lutaj</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>13:30 – 13:45</strong></td>
@@ -351,8 +348,8 @@ const Programm = () => {
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:45 - 15:35</strong></td>
                         <td className=' border-gray-300 p-2 font-bold border-b border-t border-l'>SATELLITE SYMPOSIUM ROCHE<br />
-                        Moderator: Dr. Naser Salihu</td>
-                        <td className='border-r border-t border-b border-gray-300 p-2'></td>
+                        </td>
+                        <td className='border font-bold border-t border-b border-gray-300 p-2'>Moderator: Dr. Naser Salihu</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>14:45 – 15:15</strong></td>
@@ -368,15 +365,15 @@ const Programm = () => {
 
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:30 – 15:35</strong></td>
-                        <td className='border border-gray-300 p-2'>Discussion</td>
+                        <td className='border border-gray-300 p-2 font-bold uppercase'>Discussion</td>
                         <td className='border border-gray-300 p-2'></td>
                       </tr>
 
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:35 - 16:50</strong></td>
                         <td className=' border-gray-300 p-2 font-bold border-b border-t border-l'>Medical Retina <br />
-                          Moderators: Dr. Nurten Ünlü, Dr. Vesna Dimovska</td>
-                        <td className='border-r border-t border-b border-gray-300 p-2'></td>
+                          </td>
+                        <td className='border font-bold border-t border-b border-gray-300 p-2'>Moderators: Dr. Nurten Ünlü, Dr. Vesna Dimovska</td>
                       </tr>
                       <tr>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>15:35 – 15:50</strong></td>
@@ -411,7 +408,7 @@ const Programm = () => {
                         </td>
                         <td className='border border-gray-300 p-2'></td>
                       </tr>
-                      <tr>
+                      <tr className='font-bold'>
                         <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:15 - 18:30</strong></td>
                         <td className='border border-gray-300 p-2'>Vitreoretinal Surgery - I</td>
                         <td className='border border-gray-300 p-2'>Moderators: Dr. Borna Saric, Dr. Süleyman Kaynak, Dr. Tomislav Jukic</td>

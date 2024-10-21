@@ -240,8 +240,8 @@ const Secondprogram = () => {
                                         <tr className=''>
                                             <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center '><strong>17:00 - 17:25</strong></td>
                                             <td className='border border-gray-300 p-2 font-bold'>SATELLITE SYMPOSIUM ALCON <br />
-                                            <b>Moderator: </b><span>Ariana Kelmendi</span></td>
-                                            <td className='border border-gray-300 p-2'></td>
+                                            </td>
+                                            <td className='border border-gray-300 p-2 font-bold'>Moderator:<span> Ariana Kelmendi</span></td>
                                         </tr>
                                         <tr>
                                             <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:00 - 17:15</strong></td>
@@ -448,7 +448,7 @@ const Secondprogram = () => {
                                             <td className='border border-gray-300 p-2'>Orhan Kubati</td>
                                         </tr>
                                         <tr className='font-bold'>
-                                            <td className='border border-gray-300 p-2'><strong>13.30 - 15.00</strong></td>
+                                            <td className='border border-gray-300 p-2'><strong>13:30 - 15:10</strong></td>
                                             <td className='border border-gray-300 p-2 font-bold'>FREE PAPERS – IV</td>
                                             <td className='border border-gray-300 p-2'>Moderators: Dr. Yaşar Duranoğlu, Dr. Gazmend Kacaniku</td>
                                         </tr>
@@ -511,6 +511,11 @@ const Secondprogram = () => {
                                             <td className='border border-gray-300 p-2'><strong>OP-61</strong></td>
                                             <td className='border border-gray-300 p-2'>Importance of Clinical and AS-OCT Features of Descemet Membrane Detachment After Cataract Surgery</td>
                                             <td className='border border-gray-300 p-2'>Diba Bulluti</td>
+                                        </tr>
+                                        <tr>
+                                            <td className='border border-gray-300 p-2'><strong>OP-62</strong></td>
+                                            <td className='border border-gray-300 p-2'>Integrated Management of Patients with Diabetic Retinopathy</td>
+                                            <td className='border border-gray-300 p-2'>Ilir Arapi</td>
                                         </tr>
                                     </tbody>
                                 </table>
