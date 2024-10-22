@@ -11,6 +11,7 @@ import Invited from "./pages/Invited";
 import PresidentLetter from "./pages/PresidentLetter";
 import CongressDates from "./pages/CongressDates";
 import Programm from "./pages/Programm";
+import Abstract from "./pages/Abstract";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
                 <Route path="/venue" element={<VenuePage />} />
                 <Route path="/register" element={<Register />} />
                 <Route path="/view-the-programm" element={<Programm />} />
+                <Route path="/abstracts" element={<Abstract />} />
                 <Route path="/contact" element={<ContactPage />} />
               </Routes>
               <Footer />

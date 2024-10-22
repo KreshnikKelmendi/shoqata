@@ -183,6 +183,11 @@ const Header = () => {
                           {t("Programm")}
                         </Link>
                       </li>
+                      <li>
+                        <Link to="/abstracts" className="text-sm hover:bg-[#ff354c] text-white block px-4 py-2">
+                          {t("AbstractPDF")}
+                        </Link>
+                      </li>
                     </ul>
                   </div>
                 </li>

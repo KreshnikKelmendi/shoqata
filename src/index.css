@@ -24,3 +24,10 @@
     -webkit-mask-image: linear-gradient(to right, transparent 0.5%, #0e0e0e8e 50%);
     mask-image: linear-gradient(to right, transparent 0.5%, #0e0e0e8e 50%);
   }
+
+  .bg-abstract{
+    background-image: url(./components/img/download.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

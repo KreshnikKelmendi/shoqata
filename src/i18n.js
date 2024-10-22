@@ -15,6 +15,7 @@ i18n
           "Venue": "Venue",
           "Registration": "Registration",
           "Programm": "Scientific Program",
+          "AbstractPDF": "View The Abstracts",
           "Contacts": "Contact",
           "ImportantDates": "Important Dates",
           "ImportantDatesDescription": "Announcing the 4th KAO National Congress and the 2nd TAO Balkan Congress! These premier events for ophthalmology professionals offer a unique platform to explore advancements, share research, and collaborate on future developments in eye care.",
@@ -78,7 +79,7 @@ i18n
           "days": 'Days',
           "hours": "Hours",
           "minutes": "Minutes",
-          "seconds": "Sekonds",
+          "seconds": "Seconds",
 
         //Importand dates
         "firstImportant": "Registration Opens",
@@ -116,6 +117,7 @@ i18n
           "Venue": "Vendi",
           "Registration": "Regjistrimi",
           "Programm": "Programi Shkencor",
+          "AbstractPDF": "Shiko Abstraktet",
           "Contacts": "Kontakti",
           "ImportantDates": "Datat me rëndësi",
           "ImportantDatesDescription": "Shpallim Kongresin e 4-të Kombëtar të KAO-s dhe Kongresin e 2-të Ballkanik të TAO-s! Këto ngjarje kryesore për profesionistët e oftalmologjisë ofrojnë një platformë unike për të eksploruar përparimet, për të shkëmbyer kërkime dhe për të bashkëpunuar në zhvillimet e ardhshme në kujdesin ndaj syve.",

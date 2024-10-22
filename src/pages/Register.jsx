@@ -18,10 +18,10 @@ const Popup = ({ name, onClose, timeout }) => {
                     <FontAwesomeIcon color='green' icon={faCheckCircle} /> Thank you, {name.Title}. {name.firstName} {name.lastName}!
                 </h2>
                 <p className="mb-4 font-custom">
-                We are pleased to inform you that your registration will be successfully processed once we receive your payment.
-<p>
-                Please proceed with your payment:
-                    ProCredit Bank <span className='font-extrabold text-blue-500'>1181001152000154</span></p>
+                    We are pleased to inform you that your registration will be successfully processed once we receive your payment.
+                    <p>
+                        Please proceed with your payment:
+                        ProCredit Bank <span className='font-extrabold text-blue-500'>1181001152000154</span></p>
                 </p>
                 <button
                     className="bg-blue-500 text-white px-4 py-2 rounded"
@@ -106,12 +106,12 @@ const Register = () => {
                                 <p className="text-[13px] text-white mt-2">{t('simpleDescriptionRegister')}</p>
                             </div>
                             <div>
-                            <p className="mb-4 text-sm font-custom text-white">
-                We are pleased to inform you that your registration will be successfully processed once we receive your payment.
-<p><br/>
-                Please after fill the form proceed with your payment, <br /><br />
-                    ProCredit Bank <span className='font-extrabold text-red-500 underline'>1181001152000154</span></p>
-                </p>
+                                <p className="mb-4 text-sm font-custom text-white">
+                                    We are pleased to inform you that your registration will be successfully processed once we receive your payment.
+                                    <p><br />
+                                        Please after fill the form proceed with your payment, <br /><br />
+                                        ProCredit Bank <span className='font-extrabold text-red-500 underline'>1181001152000154</span></p>
+                                </p>
                             </div>
                         </div>
                         <form ref={form} onSubmit={sendEmail} className="md:col-span-2 w-full py-6 px-6 sm:px-16">
