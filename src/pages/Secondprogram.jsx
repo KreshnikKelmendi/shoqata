@@ -257,7 +257,7 @@ const Secondprogram = () => {
                                         <tr className='font-bold'>
                                             <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center py-4'><strong>17:25 - 18:40</strong></td>
                                             <td className='border border-gray-300 p-2'>Pediatric Ophthalmology and Strabismus</td>
-                                            <td className='border border-gray-300 p-2'>Moderators: Dr. Huban Atillla, Dr. Nikolas Kozeis, Dr. Tundjai Jozturk</td>
+                                            <td className='border border-gray-300 p-2'>Moderators: Dr. Huban Atilla, Dr. Nikolas Kozeis, Dr. Tundjai Jozturk</td>
                                         </tr>
                                         <tr>
                                             <td className='border border-gray-300 text-[10px] lg:text-sm w-[120px] text-center'><strong>17:25 – 17:40</strong></td>
