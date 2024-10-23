@@ -17,8 +17,9 @@ import abstract15 from "../components/img/ABSTRACT PRISTINA 2024.pdf"
 import abstract16 from "../components/img/Subretinal injection of rTPA to treat submacular hemorrhage secondary to age.pdf"
 import abstract17 from "../components/img/yllkaSalihu.pdf"
 import abstract18 from "../components/img/Management of combined traumatic dislocated crystalline lens and traumatic mydriasis.pdf"
-import abstract19 from "../components/img/Surgical outcomes of new peeling technique for macular pucker.pdf"
-import abstract20 from "../components/img/Management of ocular trauma associated with cataracts and IOFB.pdf"
+import abstract19 from "../components/img/Surgical outcomes of new peeling technique for macular pucker (1).pdf"
+import abstract20 from "../components/img/Management-of-ocular-trauma-associated-with-cataracts-and-IOFB_compressed.pdf"
+
 
 const abstracts = [
     {
