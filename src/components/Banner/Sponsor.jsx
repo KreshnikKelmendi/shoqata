@@ -18,6 +18,7 @@ import sponsor16 from "../img/sponsor16.png";
 import sponsor17 from "../img/sponsor17.png";
 import sponsor18 from "../img/sponsor18.png";
 import sponsor19 from "../img/sponsor19.png";
+import sponsor20 from "../img/omesis.png"
 
 const sponsors = [
   { src: sponsor1, alt: 'Sponsor 1' },
@@ -25,6 +26,7 @@ const sponsors = [
   { src: sponsor3, alt: 'Sponsor 3' },
   { src: sponsor4, alt: 'Sponsor 4' },
   { src: sponsor5, alt: 'Sponsor 5' },
+  { src: sponsor20, alt: 'Sponsor 20' },
   { src: sponsor6, alt: 'Sponsor 6' },
   { src: sponsor7, alt: 'Sponsor 7' },
   { src: sponsor8, alt: 'Sponsor 8' },
@@ -39,6 +41,8 @@ const sponsors = [
   { src: sponsor17, alt: 'Sponsor 17' },
   { src: sponsor18, alt: 'Sponsor 18' },
   { src: sponsor19, alt: 'Sponsor 19' },
+ 
+
 ];
 
 const Sponsor = () => {
