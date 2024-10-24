@@ -45,7 +45,7 @@ const abstracts = [
     },
     {
         titles: ['- Anti VEGF Revolution, Progress and Challenges'],
-        doctor: 'Belinda Pustina, Suzana Buçinca, Mentor Gorani, Lisa Qurdina, Fjolla Bokshi',
+        doctor: 'Belinda Pustina',
         pdfLinks: [abstract21]
     },
     {

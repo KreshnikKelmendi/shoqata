@@ -258,7 +258,7 @@ const Programm = () => {
                           <span><b>Dr. Huban Atilla</b> - President of Turkish Ophthalmological Association</span><br />
                           <span><b>Arben Vitia</b> - Minister of Health in the Republic of Kosovo</span><br />
                           <span><b>HE Mr. Tunç Angılı</b> - Ambassador of the Republic of Türkiye</span><br /> <br />
-                          <span><b>Music Performance:</b> Dr. Elçin Sürer, Dr. Sait Eğrilmez, Dr. Gürkan Erdoğan, <br />Dr. Gafurr Murati, Dr. Valbon Ajazaj</span>
+                          <span><b>Music Performance:</b> Dr. Elçin Sürer, Dr. Sait Eğrilmez, Dr. Gürkan Erdoğan, <br />Dr. Gafur Murati, Dr. Valbon Ajazaj</span>
                          
                         </td>
                       </tr>
