@@ -19,6 +19,7 @@ import abstract17 from "../components/img/yllkaSalihu.pdf"
 import abstract18 from "../components/img/Management of combined traumatic dislocated crystalline lens and traumatic mydriasis.pdf"
 import abstract19 from "../components/img/Surgical outcomes of new peeling technique for macular pucker (1).pdf"
 import abstract20 from "../components/img/Management-of-ocular-trauma-associated-with-cataracts-and-IOFB_compressed.pdf"
+import abstract21 from "../components/img/Anti VEGF abstract Belinda.pdf"
 
 
 const abstracts = [
@@ -41,6 +42,11 @@ const abstracts = [
         titles: ['- Duane syndrome treatment'],
         doctor: 'Mentor Ilazi, Shend Ajeti',
         pdfLinks: [abstract3]
+    },
+    {
+        titles: ['- Anti VEGF Revolution, Progress and Challenges'],
+        doctor: 'Belinda Pustina, Suzana Buçinca, Mentor Gorani, Lisa Qurdina, Fjolla Bokshi',
+        pdfLinks: [abstract21]
     },
     {
         titles: ['- Presentation of results after implantation of multifocal lenses for refractive and cataract surgery'],
