@@ -12,6 +12,7 @@ import PresidentLetter from "./pages/PresidentLetter";
 import CongressDates from "./pages/CongressDates";
 import Programm from "./pages/Programm";
 import Abstract from "./pages/Abstract";
+import CongressGalery2024 from "./pages/CongressGalery2024";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
                 <Route path="/register" element={<Register />} />
                 <Route path="/view-the-programm" element={<Programm />} />
                 <Route path="/abstracts" element={<Abstract />} />
+                <Route path="/congress-2024-galery" element={<CongressGalery2024 />} />
                 <Route path="/contact" element={<ContactPage />} />
               </Routes>
               <Footer />

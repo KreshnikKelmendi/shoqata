@@ -65,7 +65,7 @@ const Header = () => {
   }, [navigate]);
 
   const changeLanguage = (lng) => {
-    i18n.changeLanguage(lng); 
+    i18n.changeLanguage(lng);
   };
 
   return (
@@ -146,16 +146,16 @@ const Header = () => {
                 </li>
                 <li className="relative">
                   <button id="dropdownNavbarLink" data-dropdown-toggle="dropdownNavbar" className="py-2 pr-4 pl-3 lg:text-sm 2xl:text-lg duration-1000 lg:text-primary-700 lg:p-0 lg:px-2 lg:py-[1px] shadow-sm shadow-black dark:text-white flex justify-between items-center">
-                      {t("CongressMenu")}
+                    {t("CongressMenu")}
                     <svg className="w-4 h-4 ml-1" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                       <path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd"></path>
                     </svg>
                   </button>
                   <div id="dropdownNavbar" className="hidden absolute bg-[#044f7c] text-base list-none divide-y divide-gray-100 rounded shadow my-4 w-52 z-50">
                     <ul className="py-1" aria-labelledby="dropdownLargeButton">
-                    <li>
+                      <li>
                         <Link to="/president-invitation" className="text-sm hover:bg-[#ff354c] text-white block px-4 py-2">
-                        {t("PresidentInvitation")}
+                          {t("PresidentInvitation")}
                         </Link>
                       </li>
                       <li>
@@ -188,6 +188,33 @@ const Header = () => {
                           {t("AbstractPDF")}
                         </Link>
                       </li>
+                      <li className="">
+                        <Link to="/congress-2024-galery" className="text-sm hover:bg-[#ff354c] text-white flex gap-2 px-4 py-2">
+                          {/* Modern Image Icon */}
+                          {t("CongressGalery")}
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24"
+                            className="w-5 h-5"
+                            aria-hidden="true"
+                          >
+                            {/* Outer Frame */}
+                            <rect x="2" y="2" width="20" height="20" rx="3" fill="#E0E0E0" />
+
+                            {/* Sun */}
+                            <circle cx="17" cy="7" r="2" fill="#FFA500" />
+
+                            {/* Mountains */}
+                            <path d="M4 18l4-6 3 4 4-5 5 7H4z" fill="#8BC34A" />
+
+                            {/* Sky */}
+                            <rect x="4" y="14" width="16" height="4" fill="#87CEEB" />
+                          </svg>
+                          {/* Text */}
+                        
+                        </Link>
+                      </li>
+
                     </ul>
                   </div>
                 </li>
