@@ -18,19 +18,103 @@ import image17 from "../img/shofk-17.jpg";
 import image18 from "../img/shofk-18.jpg";
 import image19 from "../img/shofk-19.jpg";
 import image20 from "../img/shofk-20.jpg";
-import image21 from "../img/shofk-21.jpg"; 
-import image22 from "../img/shofk-22.jpg"; 
-import image23 from "../img/shofk-23.jpg"; 
-import image24 from "../img/shofk-24.jpg"; 
-import image25 from "../img/shofk-25.jpg"; 
-import image26 from "../img/shofk-26.jpg"; 
-import image27 from "../img/shofk-27.jpg"; 
-import image28 from "../img/shofk-28.jpg"; 
+import image21 from "../img/shofk-21.jpg";
+import image22 from "../img/shofk-22.jpg";
+import image23 from "../img/shofk-23.jpg";
+import image24 from "../img/shofk-24.jpg";
+import image25 from "../img/shofk-25.jpg";
+import image26 from "../img/shofk-26.jpg";
+import image27 from "../img/shofk-27.jpg";
+import image28 from "../img/shofk-28.jpg";
+import image29 from "../img/shofk-29.jpg";
+import image30 from "../img/shofk-30.jpg";
+import image31 from "../img/shofk-31.jpg";
+import image32 from "../img/shofk-32.jpg";
+import image33 from "../img/shofk-33.jpg";
+import image34 from "../img/shofk-34.jpg";
+import image35 from "../img/shofk-35.jpg";
+import image36 from "../img/shofk-36.jpg";
+import image37 from "../img/shofk-37.jpg";
+import image38 from "../img/shofk-38.jpg";
+import image39 from "../img/shofk-39.jpg";
+import image40 from "../img/shofk-40.jpg";
+import image41 from "../img/shofk-41.jpg";
+import image42 from "../img/shofk-42.jpg";
+import image43 from "../img/shofk-43.jpg";
+import image44 from "../img/shofk-44.jpg";
+import image45 from "../img/shofk-45.jpg";
+import image46 from "../img/shofk-46.jpg";
+import image47 from "../img/shofk-47.jpg";
+import image48 from "../img/shofk-48.jpg";
+import image49 from "../img/shofk-49.jpg";
+import image50 from "../img/shofk-50.jpg";
+import image51 from "../img/shofk-51.jpg";
+import image52 from "../img/shofk-52.jpg";
+import image53 from "../img/shofk-53.jpg";
+import image54 from "../img/shofk-54.jpg";
+import image55 from "../img/shofk-55.jpg";
+import image56 from "../img/shofk-56.jpg";
+import image57 from "../img/shofk-57.jpg";
+import image58 from "../img/shofk-58.jpg";
+import image59 from "../img/shofk-59.jpg";
+import image60 from "../img/shofk-60.jpg";
+import image61 from "../img/shofk-61.jpg";
+import image62 from "../img/shofk-62.jpg";
+import image63 from "../img/shofk-63.jpg";
+import image64 from "../img/shofk-64.jpg";
+import image65 from "../img/shofk-65.jpg";
+import image66 from "../img/shofk-66.jpg";
+import image67 from "../img/shofk-67.jpg";
+import image68 from "../img/shofk-68.jpg";
+import image69 from "../img/shofk-69.jpg";
+import image70 from "../img/shofk-70.jpg";
+import image71 from "../img/shofk-71.jpg";
+import image72 from "../img/shofk-72.jpg";
+import image73 from "../img/shofk-73.jpg";
+import image74 from "../img/shofk-74.jpg";
+import image75 from "../img/shofk-75.jpg";
+import image76 from "../img/shofk-76.jpg";
+import image77 from "../img/shofk-77.jpg";
+import image78 from "../img/shofk-78.jpg";
+import image79 from "../img/shofk-79.jpg";
+import image80 from "../img/shofk-80.jpg";
+import image81 from "../img/shofk-81.jpg";
+import image82 from "../img/shofk-82.jpg";
+import image83 from "../img/shofk-83.jpg";
+import image84 from "../img/shofk-84.jpg";
+import image85 from "../img/shofk-85.jpg";
+import image86 from "../img/shofk-86.jpg";
+import image87 from "../img/shofk-87.jpg";
+import image88 from "../img/shofk-88.jpg";
+import image89 from "../img/shofk-89.jpg";
+import image90 from "../img/shofk-90.jpg";
+import image91 from "../img/shofk-91.jpg";
+import image92 from "../img/shofk-92.jpg";
+import image93 from "../img/shofk-93.jpg";
+import image94 from "../img/shofk-94.jpg";
+import image95 from "../img/shofk-95.jpg";
+import image96 from "../img/shofk-96.jpg";
+import image97 from "../img/shofk-97.jpg";
+import image98 from "../img/shofk-98.jpg";
+import image99 from "../img/shofk-99.jpg";
+import image100 from "../img/shofk-100.jpg";
+import image101 from "../img/shofk-101.jpg";
+import image102 from "../img/shofk-102.jpg";
+import image103 from "../img/shofk-103.jpg";
+import image104 from "../img/shofk-104.jpg";
+import image105 from "../img/shofk-105.jpg";
+import image106 from "../img/shofk-106.jpg";
+import image107 from "../img/shofk-107.jpg";
+import image108 from "../img/shofk-108.jpg";
+import image109 from "../img/shofk-109.jpg";
+import image110 from "../img/shofk-110.jpg";
+import image111 from "../img/shofk-111.jpg";
+import image112 from "../img/shofk-112.jpg";
+import image113 from "../img/shofk-113.jpg";
 
 const galeryData = [
     { image: image1 },
     { image: image2 },
-    { image: image28 }, 
     { image: image3 },
     { image: image4 },
     { image: image5 },
@@ -49,13 +133,99 @@ const galeryData = [
     { image: image18 },
     { image: image19 },
     { image: image20 },
-    { image: image21 }, 
-    { image: image22 }, 
-    { image: image23 }, 
+    { image: image21 },
+    { image: image22 },
+    { image: image23 },
     { image: image24 },
-    { image: image25 }, 
-    { image: image26 }, 
+    { image: image25 },
+    { image: image26 },
     { image: image27 },
+    { image: image28 },
+    { image: image29 },
+    { image: image30 },
+    { image: image31 },
+    { image: image32 },
+    { image: image33 },
+    { image: image34 },
+    { image: image35 },
+    { image: image36 },
+    { image: image37 },
+    { image: image38 },
+    { image: image39 },
+    { image: image40 },
+    { image: image41 },
+    { image: image42 },
+    { image: image43 },
+    { image: image44 },
+    { image: image45 },
+    { image: image46 },
+    { image: image47 },
+    { image: image48 },
+    { image: image49 },
+    { image: image50 },
+    { image: image51 },
+    { image: image52 },
+    { image: image53 },
+    { image: image54 },
+    { image: image55 },
+    { image: image56 },
+    { image: image57 },
+    { image: image58 },
+    { image: image59 },
+    { image: image60 },
+    { image: image61 },
+    { image: image62 },
+    { image: image63 },
+    { image: image64 },
+    { image: image65 },
+    { image: image66 },
+    { image: image67 },
+    { image: image68 },
+    { image: image69 },
+    { image: image70 },
+    { image: image71 },
+    { image: image72 },
+    { image: image73 },
+    { image: image74 },
+    { image: image75 },
+    { image: image76 },
+    { image: image77 },
+    { image: image78 },
+    { image: image79 },
+    { image: image80 },
+    { image: image81 },
+    { image: image82 },
+    { image: image83 },
+    { image: image84 },
+    { image: image85 },
+    { image: image86 },
+    { image: image87 },
+    { image: image88 },
+    { image: image89 },
+    { image: image90 },
+    { image: image91 },
+    { image: image92 },
+    { image: image93 },
+    { image: image94 },
+    { image: image95 },
+    { image: image96 },
+    { image: image97 },
+    { image: image98 },
+    { image: image99 },
+    { image: image100 },
+    { image: image101 },
+    { image: image102 },
+    { image: image103 },
+    { image: image104 },
+    { image: image105 },
+    { image: image106 },
+    { image: image107 },
+    { image: image108 },
+    { image: image109 },
+    { image: image110 },
+    { image: image111 },
+    { image: image112 },
+    { image: image113 }
 ];
 
-export { galeryData };
+export {galeryData }

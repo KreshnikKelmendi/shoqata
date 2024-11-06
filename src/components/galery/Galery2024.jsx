@@ -3,14 +3,14 @@ import { motion } from 'framer-motion';
 import { galeryData } from './galery';
 
 const Galery2024 = () => {
-  const [visibleCount, setVisibleCount] = useState(10); // Start with 10 images
+  const [visibleCount, setVisibleCount] = useState(26); // Start with 10 images
   const [loading, setLoading] = useState(false); // Loading state
 
   const loadMoreImages = () => {
     if (visibleCount < galeryData.length) {
       setLoading(true);
       setTimeout(() => {
-        setVisibleCount(prevCount => Math.min(prevCount + 6, galeryData.length)); // Load 6 more images
+        setVisibleCount(prevCount => Math.min(prevCount + 20, galeryData.length)); // Load 6 more images
         setLoading(false);
       }, 1000); // 1000ms delay
     }
